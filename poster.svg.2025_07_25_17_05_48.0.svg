@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="210mm"
+   height="297mm"
+   viewBox="0 0 210 297"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.1.2 (0a00cf5339, 2022-02-04)"
+   sodipodi:docname="poster.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#505050"
+     bordercolor="#eeeeee"
+     borderopacity="1"
+     inkscape:pageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="0"
+     inkscape:document-units="mm"
+     showgrid="false"
+     inkscape:zoom="0.77593294"
+     inkscape:cx="378.89872"
+     inkscape:cy="561.25984"
+     inkscape:window-width="1920"
+     inkscape:window-height="1080"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs2">
+    <rect
+       x="56.103747"
+       y="193.06534"
+       width="960.73348"
+       height="1620.9986"
+       id="rect21335" />
+    <rect
+       x="89.427771"
+       y="52.532842"
+       width="466.45465"
+       height="80.140486"
+       id="rect2254" />
+  </defs>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <text
+       xml:space="preserve"
+       transform="matrix(0.38715515,0,0,0.38715515,-18.309666,-12.854866)"
+       id="text2252"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:32px;line-height:1.25;font-family:Arial;-inkscape-font-specification:Arial;white-space:pre;shape-inside:url(#rect2254)"><tspan
+         sodipodi:role="line"
+         id="tspan2256"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Arial;-inkscape-font-specification:Arial">岩石の「模様」を支配する物理</tspan></text>
+    <text
+       xml:space="preserve"
+       transform="scale(0.26458333)"
+       id="text21333"
+       style="font-weight:bold;font-size:18.6667px;line-height:1.25;font-family:Arial;-inkscape-font-specification:'Arial Bold';white-space:pre;shape-inside:url(#rect21335)"><tspan
+         sodipodi:role="line"
+         id="tspan21337"
+         style="font-size:18.6667px">岩石は無数の結晶粒からできています。結晶粒は界面によって区切られており、これを「相」と呼びます。相は岩石を構成する最小の構造単位と考えることができます。
+岩石の内部では、温度や圧力の変化によって、もともと一つの相だった物質が複数の相に分かれることがあります。これを「相分離」と呼び、鉱物の種類や岩石の性質を決定づける重要な現象です。
+
+相分離を理解することで、岩石がどのように形成され、地球内部でどのような歴史をたどってきたのかを知る手がかりになります。
+たとえば、XXXX
+
+私たちは、コンピュータを使った数値計算によって、この複雑な現象をシミュレーションすることができます。本ポスターでは、相分離の仕組みと、その数値計算の方法・結果をわかりやすく紹介します。
+
+</tspan></text>
+  </g>
+</svg>

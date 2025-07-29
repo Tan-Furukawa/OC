@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="210mm"
+   height="297mm"
+   viewBox="0 0 210 297"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.1.2 (0a00cf5339, 2022-02-04)"
+   sodipodi:docname="poster.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#505050"
+     bordercolor="#eeeeee"
+     borderopacity="1"
+     inkscape:pageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="0"
+     inkscape:document-units="mm"
+     showgrid="false"
+     inkscape:zoom="0.77593294"
+     inkscape:cx="378.89872"
+     inkscape:cy="561.25984"
+     inkscape:window-width="1920"
+     inkscape:window-height="1080"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs2">
+    <rect
+       x="66.494111"
+       y="171.21656"
+       width="1087.2625"
+       height="939.36713"
+       id="rect2300" />
+    <rect
+       x="89.427771"
+       y="52.532842"
+       width="629.53506"
+       height="249.39106"
+       id="rect2254" />
+  </defs>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <text
+       xml:space="preserve"
+       transform="matrix(0.38715515,0,0,0.38715515,-15.621643,-12.954749)"
+       id="text2252"
+       style="font-weight:bold;font-size:32px;line-height:1.25;font-family:Arial;-inkscape-font-specification:'Arial Bold';white-space:pre;shape-inside:url(#rect2254)"><tspan
+         x="89.427734"
+         y="84.693203"
+         id="tspan6413">数値計算による鉱物組織の再現</tspan></text>
+    <text
+       xml:space="preserve"
+       transform="matrix(0.26458333,0,0,0.26458333,-9.536772,-12.601007)"
+       id="text2298"
+       style="font-weight:bold;font-size:17.3333px;line-height:1.25;font-family:Arial;-inkscape-font-specification:'Arial Bold';white-space:pre;shape-inside:url(#rect2300)"><tspan
+         sodipodi:role="line"
+         id="tspan2302"
+         style="font-size:17.3333px">岩石は無数の結晶粒からできています。結晶粒は界面によって区切られており、これを「相」と呼びます。相は岩石を構成する最小の構造単位と考えることができます。
+岩石の内部では、温度や圧力の変化によって、もともと一つの相だった物質が複数の相に分かれることがあります。これを「相分離」と呼び、鉱物の種類や岩石の性質を決定づける重要な現象です。
+
+相分離を理解することで、岩石がどのように形成され、地球内部でどのような歴史をたどってきたのかを知る手がかりになります。
+たとえば、長石の中に現れる「パーサイト（離溶ラメラ）」が好例です。マグマがゆっくり冷えると、最初は一つの均質な長石だった結晶が、温度低下にともなってナトリウムに富む部分とカリウムに富む部分に分かれ、ミクロン単位の縞模様を作ります。この模様の幅を測ると、岩体がどれくらいの速さで冷却したかを逆算できるため、火成岩の結晶化年代や冷却履歴を読み解く手がかりになります。
+
+私たちは、コンピュータを使った数値計算によって、この複雑な現象をシミュレーションすることができます。本ポスターでは、相分離の仕組みと、その数値計算の方法・結果をわかりやすく紹介します。</tspan></text>
+  </g>
+</svg>
